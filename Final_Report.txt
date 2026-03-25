@@ -19,4 +19,6 @@ Conclusion:
 The project was completed successfully and met its objectives.
 Recommendations:
 Add mobile app version 
+Add desktop app version 
+improve app performance 
 Improve user interface 
