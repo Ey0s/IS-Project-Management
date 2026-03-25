@@ -1,0 +1,22 @@
+Final Report
+Introduction:
+This report presents the development of the Task Management System.
+Objectives:
+To build a system for managing tasks 
+To improve productivity 
+Work Done:
+Created project plan 
+Designed system interface 
+Developed core features 
+Tested system functionality 
+deploymenent
+Results:
+The system successfully allows users to manage tasks efficiently.
+Challenges:
+Time management 
+Technical difficulties 
+Conclusion:
+The project was completed successfully and met its objectives.
+Recommendations:
+Add mobile app version 
+Improve user interface 
